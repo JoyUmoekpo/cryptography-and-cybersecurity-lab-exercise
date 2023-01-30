@@ -1,0 +1,7 @@
+1. Microsoft Breach of January 2021
+
+2. Microsoft experienced a security breach in January 2021 which affected over 30,000 businesses in the US. Hacker in Hafnium, a Chinese hacker organization, was named as the culprit of the security breach. The hackers wanted to deploy malware and access other systems to take over Microsoft servers.
+
+3. The "tech flaws" were four zero-day vulnerabilities that required only internet access and on-premises, locally managed systems to breach. These flaws allowed the hacker to take advantage of Microsoft coding errors and break in.
+
+4. Microsoft has patched up these vulnerabilities, but they could be hacked again if owners of the individual servers don't update their systems. Their systems were not on cloud so Microsoft couldn't push a patch to stop the breach immediately.
